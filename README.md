@@ -22,5 +22,3 @@ To get started with Little Lemon, follow these steps:
 
 3. Build and Run: Use NPM scripts to build and run the application locally.
 
-
-![Little Lemon - Preview](https://your-username.github.io/little-lemon/src/components/layout/assets/logo.png)
