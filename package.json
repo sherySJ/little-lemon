@@ -1,7 +1,7 @@
 {
 	"name": "little-lemon-restaurant",
 	"version": "0.1.0",
-	"homepage": "https://sherysj.github.io/",
+	"homepage": "https://sherysj.github.io/little-lemon",
 	"private": true,
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.3.0",
